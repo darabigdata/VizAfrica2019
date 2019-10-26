@@ -14,6 +14,8 @@ This repository contains materials for tutorials at the pre-sessional summer sch
 
 In this tutorial you will build a machine learning classifier to separate out real astronomical signals from man-made radio frequency interference (RFI). The astronomical signals that you're looking for come from *pulsars*, the ultra-dense relics of exploded stars. You can read more about them in this [introduction to pulsars and how to classify them using random forests](https://as595.github.io/classification/). 
 
+The introducotry slides for this tutorial can be found [on Zenodo](https://zenodo.org/record/3519627#.XbPyZS2ZOL8).
+
 -----
 
 ### DARA Big Data is supported by:
